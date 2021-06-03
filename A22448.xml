@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King a proclamation for the transportation of any kinde of corne, graine, or victuals for the supply of the nauie, or armie in the parts of France.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22448</idno><idno type="EEBO-CITATION">33150017</idno>
+  <idno type="VID">28519</idno>
+  <idno type="EEBO-PROQUEST">2240919168</idno>
+  <idno type="STC">STC 8866</idno>
+  <idno type="STC">ESTC S122720</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.  Navigations series.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A22448)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28519)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1876:94)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King a proclamation for the transportation of any kinde of corne, graine, or victuals for the supply of the nauie, or armie in the parts of France.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2] leaves.   </extent>
+               <publicationStmt>
+                  <publisher>By Bonham Norton and Iohn Bill, Printers  to the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>M.DC.XXVII [1627]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Permitting export to the Isle of Ré, and La Rochelle.</note>
+                  <note>"Giuen at Our Court at Bagshot, the eighteenth day of August, in the third yeere of Our Reigne of Great Britaine, France and Ireland."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Buckingham, George Villiers, --  Duke of, 1592-1628.</term>
+               <term type="topical_term">Military supplies.</term>
+               <term type="topical_term">Military readiness.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term type="geographic_name">Great Britain --  History, Military --  1603-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:28519:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <head>❧ By the King.</head>
+            <head>❧ A Proclamation for the Transportation of any kinde of Corne, Graine, or Victuals for the supply of the Nauie, or Armie in the parts of <hi>France.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas Our Nauie and Army are now at, and in the Isle of Ree,</hi> vnder the Command of the Duke of <hi>Buckingham;</hi> And that it is fit Our Subiects and Allyes, seruing and assisting Vs in Our said Na<g ref="char:EOLhyphen"/>uie and Armie, should bee supplied with all prouisions conuenient for their reliefe: Wee by the Aduice of Our Priuie Counsell, haue thought fit to publish and declare, and doe hereby publish and declare, That it shall, and may bee lawfull for all, or any Merchants, beeing Our owne naturall borne Subiects, or Denizens of either of Our Kingdomes of <hi>England,</hi> or <hi>Ireland,</hi> to transport, or carie any Corne, Graine, or Victuals, of any sorts or kinds out of either of Our said Kingdoms, vnto Our Army in the sayd Island of <hi>Ree,</hi> or elsewhere, or vnto the Towne of <hi>Rochell,</hi> and not elsewhere, they first putting in good and sufficient security of knowen Merchants, to the Officers of Our Customes, in the same Port where the same shall bee shipped to Our vse, That they shall transport all such Corne, Graine, and Victuals, either vnto the sayd Armie, or vnto the sayd Towne of <hi>Rochell,</hi> and not else<g ref="char:EOLhyphen"/>where; And that they shall bring backe to the Officers of the sayd Port, where such security shall be entred, within sixe Moneths then next following, a true Certificate of the deliuery of all such Corne, Graine, and Victuals at one of those places, vnder the hand of the said Duke of <hi>Buckingham,</hi> Generall of Our Armie, or vnder the hand of the Duke of <hi>Soubize,</hi> or of Sir <hi>Allan Apsley,</hi> Knight, Commissary generall of the Victuals, or of Sir <hi>William Beecher,</hi> Knight, Se<g ref="char:EOLhyphen"/>cretary of the sayd Armie: And also making an entry in the Office of Our Admiralty, of e<g ref="char:EOLhyphen"/>uery such Shippe.</p>
+            <p>And further, Our will and pleasure is, and so Wee doe hereby publish and declare, That it
+<pb facs="tcp:28519:2"/>shall bee lawfull for any Merchant of <hi>Rochell,</hi> being a Frenchman, to transport or carie in any Ship or Vessel, being either an English or French Bottome, any Corne, Graine, or Victual, of any kind whatsoeuer, out of these Realmes of <hi>England</hi> or <hi>Ireland,</hi> or any part of them, or either of them, vnto Our Army in the sayd Island of <hi>Ree,</hi> or elsewhere, or to the sayd Towne of <hi>Rochell,</hi> vpon good and sufficient security, of knowen Merchants, English or Denizens, residing in <hi>England</hi> or <hi>Ireland</hi> respectiuely, first giuen to the Officers of the Customes of that Port, where the same shall bee shipped to Our vse, That they shall not transport the sayd Corne, Graine, or Victuals, or any part thereof, to any other place, then to Our Armie in the said Island of <hi>Ree,</hi> or elsewhere, or to the said Towne of <hi>Rochell;</hi> And that they shal procure a true Certificate of the deli<g ref="char:EOLhyphen"/>uery or discharge of the said Corne, Graine, and Victuals, at, or in the said places, or one of them, vnder the hand of the said Duke of <hi>Buckingham,</hi> Duke of <hi>Soubize,</hi> Sir <hi>Allan Apsley,</hi> and Sir <hi>Willi<g ref="char:EOLhyphen"/>am Beecher,</hi> or one of them, as aforesaid, and making an entry likewise in the Office of Our Ad<g ref="char:EOLhyphen"/>miraltie, of euery such Shippe, as aforesaid; And this to bee done notwithstanding any Law, Proclamation, or restraint to the contrary.</p>
+            <p>And Our further pleasure is, and Wee doe straitly charge and command, all and euery the Officers of Our Customes whom it may concerne, that they doe duely certifie all the Bonds which shall bee taken by them respectiuely, into Our Exchequer, within eight Moneths after the date thereof, vnlesse in the meane time there shall bee such Certificate returned of the deliuery, and discharge of the said Corne, Graine and Victuals, according to the tenour and true meaning of the said Bonds, and the Conditions thereof.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at Our Court at Bagshot, </hi>
+                  <date>
+                     <hi>the eighteenth day of August, in the third yeere of Our Reigne of Great Britaine, France and Ireland.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Bonham Norton and Iohn Bill, Printers to the Kings most Excellent Maiestie. M.DC.XXVII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
